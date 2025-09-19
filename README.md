@@ -59,7 +59,6 @@ Build a single-page React application that fetches user data from a public API a
 
 Follow these steps to run the project locally:
 
-```bash
 # Clone the repository
 git clone https://github.com/brucelee03/users-profiles.git
 
