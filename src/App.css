@@ -1,0 +1,19 @@
+body {
+  background: #f7f9fc;
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+#app {
+  background-image: linear-gradient(to left, #34e67f, #17a58b);
+  min-height: 100vh;
+}
+
+#main-heading {
+  font-weight: 600;
+  font-family: monospace;
+  color: #fff;
+  font-size: 42px;
+}
+.card {
+  border: 0;
+}
