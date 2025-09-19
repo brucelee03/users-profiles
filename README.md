@@ -1,4 +1,3 @@
-````
 # 👥 User Profiles – ReactJS Frontend Assignment
 
 A modern, responsive **User Profiles Application** built using **React.js** as part of SimplyFi Softech's Frontend Developer Assignment.
@@ -72,7 +71,7 @@ npm install
 
 # Start the development server
 npm start
-````
+
 
 Your app will now be running at: **[http://localhost:3000](http://localhost:3000)**
 
