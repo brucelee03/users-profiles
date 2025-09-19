@@ -80,7 +80,7 @@ Your app will now be running at: **[http://localhost:3000](http://localhost:3000
 
 | **Desktop View**                                 | **Mobile View**                                |
 | ------------------------------------------------ | ---------------------------------------------- |
-| ![Desktop Screenshot](https://res.cloudinary.com/ddneepysv/image/upload/v1758277898/Screenshot_2025-09-19_160229_opd7v8.png) | ![Mobile Screenshot](https://res.cloudinary.com/ddneepysv/image/upload/v1758272517/Screenshot_2025-09-19_143214_f3h28k.png) |
+| ![Desktop Screenshot](https://res.cloudinary.com/ddneepysv/image/upload/v1758278374/Screenshot_2025-09-19_160251_mfm8ir.png) | ![Mobile Screenshot](https://res.cloudinary.com/ddneepysv/image/upload/v1758272517/Screenshot_2025-09-19_143214_f3h28k.png) |
 
 ---
 
