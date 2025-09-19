@@ -23,7 +23,7 @@ Build a single-page React application that fetches user data from a public API a
 | **State Management**| React Hooks (`useState`, `useEffect`) |
 | **API**             | [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) + [DiceBear Avatars](https://avatars.dicebear.com) |
 | **Version Control** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" /> **Git & GitHub** |
-| **Deployment**      | <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="30" /> **Vercel** |
+| **Deployment**      | <img src="https://vercel.com/vc-ap-vercel-marketing/_next/static/media/vercel-logotype-dark.9f447f76.svg" width="30" /> **Vercel** |
 
 ---
 
